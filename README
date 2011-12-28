@@ -1,0 +1,9 @@
+CertServer.js
+Utitity for easy and safe installation of certificates on Android. It uses node.js (http://nodejs.org/).
+
+Usage: node CertServer.js path_to_certificate
+
+(C) Copyright 2011 Victor Klos
+This code is provided AS-IS, licenced under the Creative Commons Attribution-ShareAlike 3.0
+
+The applied trick was published by Brian Kelley at http://www.realmb.com/droidCert/, which does the same but on a public server.
